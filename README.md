@@ -1,3 +1,5 @@
-[![StyleCI](https://styleci.io/repos/34807064/shield)](https://styleci.io/repos/34807064)
+
 # RedReseller-WHMCS
 RedReseller WHMCS integration Module
+
+Compatible with WHMCS 7.x
